@@ -13,4 +13,4 @@ Quantization techniques reduce memory consumption by lowering the numerical prec
 
 ## Details
 Lesson 1-3 cover the fundamentals in detail, demonstrating the GPT-2 inference process and how batching accelerates inference. As shown in the figure below, when the batch size increases, throughput and latency both increases.
-![Throughput and Latency](/Users/chengyukai/Desktop/img1.jpg)
+![Throughput and Latency](/Applications/All/py code/pythonProject/Efficiently Serving LLMs/img1.jpg)
