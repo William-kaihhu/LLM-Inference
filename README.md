@@ -40,11 +40,11 @@ The efficiency improvement can be observed in Figure 1 and Figure 2.
 
 <div align="center">
   <div style="display:inline-block; text-align:center; margin-right:40px;">
-    <img src="imgs/img1.jpg" alt="Batching" width="300"/><br>
+    <img src="imgs/img1.jpg" alt="Batching" width="500"/><br>
     <span style="font-size:12px">Figure 1: Batching</span>
   </div>
   <div style="display:inline-block; text-align:center;">
-    <img src="imgs/img2.jpg" alt="With and without KV Cache" width="300"/><br>
+    <img src="imgs/img2.jpg" alt="With and without KV Cache" width="500"/><br>
     <span style="font-size:12px">Figure 2: With and without KV Cache</span>
   </div>
 </div>
